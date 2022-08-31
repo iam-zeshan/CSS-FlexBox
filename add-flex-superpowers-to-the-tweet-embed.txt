@@ -1,4 +1,4 @@
-inhensing my knowledge about 'flexbox'.
+inhansing my knowledge about 'flexbox'.
 
 <style>
   body {
